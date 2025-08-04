@@ -1,0 +1,58 @@
+# Dependencias
+node_modules/
+.pnp
+.pnp.js
+
+# Variables de entorno
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directorios de desarrollo
+dist/
+build/
+coverage/
+.out/
+.next/
+
+# Archivos de configuración local
+*.local
+
+# Archivos de IDE/Editor
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de paquetes
+*.tgz
+
+# Archivos de testing
+/junit.xml
+
+# Archivos de depuración
+*.pid
+*.seed
+
+# TypeScript
+*.tsbuildinfo
+
+# Archivos temporales
+tmp/
+temp/
